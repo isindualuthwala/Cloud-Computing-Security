@@ -9,24 +9,24 @@ The report also explores the evolution of cloud security, starting from early da
 
 🚀 What’s Inside
 
-Key Threats & Concerns – data loss, account hijacking, insider threats, interoperability issues.
+    Key Threats & Concerns – data loss, account hijacking, insider threats, interoperability issues.
 
-Security Solutions – encryption, IDS/IPS, IAM, contingency planning, multi-tenancy risk management.
+    Security Solutions – encryption, IDS/IPS, IAM, contingency planning, multi-tenancy risk management.
 
-Evolution of Cloud Security – from the 1990s to hybrid/multi-cloud environments.
+    Evolution of Cloud Security – from the 1990s to hybrid/multi-cloud environments.
 
-Future Trends – Zero Trust, AI-powered threat detection, homomorphic & quantum-safe encryption, blockchain-based security.
+    Future Trends – Zero Trust, AI-powered threat detection, homomorphic & quantum-safe encryption, blockchain-based security.
 
 🛠️ Tools / Concepts Covered
 
-Cloud Service Models (SaaS, PaaS, IaaS)
+    Cloud Service Models (SaaS, PaaS, IaaS)
 
-Encryption (traditional & advanced)
+    Encryption (traditional & advanced)
 
-Intrusion Detection & Prevention Systems (IDS/IPS)
+    Intrusion Detection & Prevention Systems (IDS/IPS)
 
-Identity & Access Management (IAM)
+    Identity & Access Management (IAM)
 
-Zero Trust Architecture
+    Zero Trust Architecture
 
-Blockchain & AI in Cloud Security
+    Blockchain & AI in Cloud Security
